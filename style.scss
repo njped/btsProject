@@ -1,0 +1,43 @@
+@use 'var';
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.mainContent {
+    background-image: url('/images/computer.jpeg');
+}
+
+.promote{
+    color: $white;
+}
+
+.title {
+    color: $white;
+}
+
+.symbol {
+    color: $bracket-color
+}
+
+.title-discription {
+    color: $white;
+}
+
+.startBtn {
+    color: $white;
+    background-color: $bracket-color;
+}
+
+.class {
+    color: $icon-color;
+}
+
+.icon-discription {
+    color: $white;
+}
+
+.nav-footer {
+    background-color: $nav-backColor;
+}
