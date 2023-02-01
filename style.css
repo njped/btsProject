@@ -5,4 +5,37 @@ body {
 
 .mainContent {
   background-image: url("/images/computer.jpeg");
+}
+
+.promote {
+  color: #FFFFFF;
+}
+
+.title {
+  color: #FFFFFF;
+}
+
+.symbol {
+  color: #8b37ff;
+}
+
+.title-discription {
+  color: #FFFFFF;
+}
+
+.startBtn {
+  color: #FFFFFF;
+  background-color: #8b37ff;
+}
+
+.class {
+  color: #d4d4d5;
+}
+
+.icon-discription {
+  color: #FFFFFF;
+}
+
+.nav-footer {
+  background-color: #f5f5f5;
 }/*# sourceMappingURL=style.css.map */
