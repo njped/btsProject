@@ -5,6 +5,9 @@ body {
 
 .mainContent {
   background-image: url("/images/computer.jpeg");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .promote {
@@ -28,7 +31,7 @@ body {
   background-color: #8b37ff;
 }
 
-.class {
+.icon {
   color: #d4d4d5;
 }
 
@@ -37,5 +40,6 @@ body {
 }
 
 .nav-footer {
-  background-color: #f5f5f5;
+  background-color: #e2e2e2;
+  padding: 1rem;
 }/*# sourceMappingURL=style.css.map */

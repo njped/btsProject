@@ -7,6 +7,9 @@ body {
 
 .mainContent {
     background-image: url('/images/computer.jpeg');
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .promote{
@@ -30,7 +33,7 @@ body {
     background-color: $bracket-color;
 }
 
-.class {
+.icon {
     color: $icon-color;
 }
 
@@ -40,4 +43,5 @@ body {
 
 .nav-footer {
     background-color: $nav-backColor;
+    padding: 1rem;
 }
